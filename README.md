@@ -6,6 +6,10 @@
 
 <button name="button">Vivid Theme❄️</button><button name="button">Please rate 👍</button><button name="button">Made from &#x1f1ee; &#x1f1f3;</button>
 
+[![](https://j.gifs.com/yoqzmz.gif)
+
+[![](https://j.gifs.com/ROpXLz.gif)
+
 Installation
 1. Open the extensions sidebar on your Visual Studio Code
 2. Search for Vivid Theme Or Jaydeep Shil
