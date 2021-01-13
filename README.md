@@ -1,5 +1,6 @@
-**VIVID THEME**
+<p style="text-align: center;">**VIVID THEME**</p>
 =============
+![alt text](https://github.com/joydeeprony89/incredible-india/blob/master/images/icon.PNG)
 
 Installation
 1. Open the extensions sidebar on your Visual Studio Code
