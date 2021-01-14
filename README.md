@@ -1,10 +1,10 @@
-**VIVID THEME**
+**vividic**
 =============
 <p align="center">
-  <img width="200" height="200" src="https://i.postimg.cc/nr03S5rk/icon.png">
+  <img width="200" height="200" src="https://i.postimg.cc/GmLYPzvz/vividic-icon.png">
 </p>
 
-<button name="button">Vivid Theme❄️</button><button name="button">Please rate 👍</button><button name="button">Made from &#x1f1ee; &#x1f1f3;</button>
+<button name="button">vividic❄️</button><button name="button">Please rate 👍</button><button name="button">Made from &#x1f1ee; &#x1f1f3;</button>
 
 [![](https://j.gifs.com/yoqzmz.gif)
 
@@ -12,10 +12,10 @@
 
 Installation
 1. Open the extensions sidebar on your Visual Studio Code
-2. Search for Vivid Theme Or Jaydeep Shil
+2. Search for vividic or jaydeep
 3. Click on Install Button
 4. Click Reload to reload your editor
-5. Select the Manage Cog (bottom left) > Color Theme ＞ Vivid Theme
+5. Select the Manage Cog (bottom left) > Color Theme ＞ vividic
 🌟🌟🌟🌟🌟 Rate five-stars please 😃
 
 

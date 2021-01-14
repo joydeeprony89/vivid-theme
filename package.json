@@ -1,6 +1,6 @@
 {
-    "name": "vivid",
-    "displayName": "Vivid Theme",
+    "name": "vividic",
+    "displayName": "vividic",
     "description": "Want to decorate your VS-code with the vivid color? You must try this , Made In India.",
     "version": "1.0.1",
     "publisher": "JaydeepShil",
@@ -21,7 +21,7 @@
     "contributes": {
         "themes": [
             {
-                "label": "Vivid Theme",
+                "label": "vividic",
                 "uiTheme": "vs-dark",
                 "path": "./themes/vivid.json"
             }
